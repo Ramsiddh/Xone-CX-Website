@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Xone-Cx-Website/static/css/main.709aa387.css",
+    "main.js": "/Xone-Cx-Website/static/js/main.dbe8b28a.js",
+    "static/media/fa-solid-900.ttf": "/Xone-Cx-Website/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/img-3.png": "/Xone-Cx-Website/static/media/img-3.975be252b32651363aaf.png",
+    "static/media/img-2.png": "/Xone-Cx-Website/static/media/img-2.09c1d8921a85a77cc884.png",
+    "static/media/fa-brands-400.ttf": "/Xone-Cx-Website/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/img3.jpg": "/Xone-Cx-Website/static/media/img3.03727d31d4be6982da02.jpg",
+    "static/media/img2.jpg": "/Xone-Cx-Website/static/media/img2.a9596fd898b6191c24a3.jpg",
+    "static/media/img1.jpg": "/Xone-Cx-Website/static/media/img1.ccb0b91492c4aae67ea0.jpg",
+    "static/media/image12.jpg": "/Xone-Cx-Website/static/media/image12.4738882251760093f6c3.jpg",
+    "static/media/fa-solid-900.woff2": "/Xone-Cx-Website/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Xone-Cx-Website/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/Xone-Cx-Website/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/img-1.png": "/Xone-Cx-Website/static/media/img-1.b789e24a913428607a9b.png",
+    "static/media/fa-regular-400.woff2": "/Xone-Cx-Website/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Xone-Cx-Website/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Xone-Cx-Website/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Xone-Cx-Website/index.html",
+    "main.709aa387.css.map": "/Xone-Cx-Website/static/css/main.709aa387.css.map",
+    "main.dbe8b28a.js.map": "/Xone-Cx-Website/static/js/main.dbe8b28a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.709aa387.css",
+    "static/js/main.dbe8b28a.js"
+  ]
+}
